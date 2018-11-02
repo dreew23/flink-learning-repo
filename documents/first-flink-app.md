@@ -8,7 +8,7 @@ cd flink-learning-repo && mvn clean install
 cd target/ 
 flink run -c com.aimer.flink.demo.WordCountSQL learn-flink-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-* if everything goes right output 
+* if everything goes right output && web ui info [pic]() 
 
 ```
 Starting execution of program
